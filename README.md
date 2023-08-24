@@ -53,6 +53,7 @@ Once the resources are created you will need to follow a couple of manual steps:
 2. [Create a database](https://docs.microsoft.com/en-us/azure/cosmos-db/create-sql-api-dotnet#add-a-collection) in the CosmosDB called `pets`. Then add one collections called `checks`.
 
 ![Cosmos DB Collection](Documents/Images/collection1.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgetkrish%2FSmartHotel360-Website.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgetkrish%2FSmartHotel360-Website?ref=badge_shield)
 
 # Running the Solution Locally
 
@@ -165,3 +166,7 @@ provided by the bot. You will only need to do this once across all repos using o
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgetkrish%2FSmartHotel360-Website.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgetkrish%2FSmartHotel360-Website?ref=badge_large)
